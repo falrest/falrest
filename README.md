@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning laravel
 - 😒😒😒
 ##### 💻Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,figma,c,laravel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,cpp,c,mysql,ruby,laravel,figma,blender,ps)
 
 ##### 🪩Social
-![https://instagram.com/dfaanhgl](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://tiktok.com/dappaa](  https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://theards.com/dfaanhgl](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) ![https://whatsapp.com/daffa](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail,twitter)
 
 ##### 📊GitHub Stats
 ![falrest GitHub stats](https://github-readme-stats.vercel.app/api?username=falrest&show_icons=true&theme=transparent)
