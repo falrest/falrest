@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning laravel,ruby,mysql
 - 😒😒😒
 ##### 💻Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,ruby,laravel,figma,blender,ps)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma,blender,ps)
 
 ##### 🪩Social
 ![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail,twitter)
