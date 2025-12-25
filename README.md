@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 ##### 🪩Social
 ![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail,twitter)
 
-##### 📊GitHub Stats
-![falrest GitHub stats](https://github-readme-stats.vercel.app/api?username=falrest&show_icons=true&theme=transparent)
