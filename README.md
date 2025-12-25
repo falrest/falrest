@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ##### 🪩Social
 ![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail,twitter)
 
-(https://id.pinterest.com/pin/66005950784519283/)
+
 
