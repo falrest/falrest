@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on home
-- 🌱 I’m currently learning laravel,ruby,mysql
+- 🌱 I’m currently learning laravel,Python
 - 😒😒😒
 ##### 💻Tech Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma,blender,laravel,java)
