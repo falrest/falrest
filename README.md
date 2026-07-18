@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - Fun fact: ...
 -->
 -  I’m currently working on home
--  I’m currently learning laravel,Python
+-  I’m currently learning laravel & Python
   
 ##### Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,figma,blender,laravel,java)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,Laravel,C++,figma,blender)
 
 ##### Social
 ![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail,twitter)
