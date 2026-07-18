@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -  I’m currently learning laravel & Python
   
 ##### Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,c++,figma,blender)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,figma,blender)
 
 ##### Social
 ![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail,twitter)
