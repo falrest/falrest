@@ -26,7 +26,7 @@ Passionate about building modern web applications, backend systems, and IoT solu
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,mysql,python,figma,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,mysql,python,figma,git,github,vscode,blender"/>
 
 </p>
 
