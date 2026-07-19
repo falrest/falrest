@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daffa Naufal</h1>
 
 <h3 align="center">
-Full Stack Developer • IoT Enthusiast • UI/UX Designer
+Full Stack Developer  • UI/UX Designer • IoT Enthusiast
 </h3>
 
 <p align="center">
@@ -16,8 +16,8 @@ Passionate about building modern web applications, backend systems, and IoT solu
 
 - 🎓 Information systems students
 - 💻 Full Stack Developer
-- 🤖 IoT Enthusiast
 - 🎨 UI/UX Designer
+- 🤖 IoT Enthusias
 - 🌱 Currently learning Laravel, React.js & Python
 - 🚀 Building scalable web applications
 - 📍 Indonesia
