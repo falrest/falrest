@@ -62,5 +62,5 @@ Passionate about building modern web applications, backend systems, and IoT solu
 
 ![](https://komarev.com/ghpvc/?username=falrest&color=blue)
 
-![](https://github-profile-trophy.vercel.app/?username=falrest&theme=algolia)
+
 
