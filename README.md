@@ -55,12 +55,9 @@ Passionate about building modern web applications, backend systems, and IoT solu
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=falrest&show_icons=true&theme=tokyonight)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=falrest&theme=tokyonight)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=falrest&layout=compact&theme=tokyonight)
-
 ![](https://komarev.com/ghpvc/?username=falrest&color=blue)
-
+![](https://github-profile-trophy.vercel.app/?username=falrest&theme=algolia)
 
 
