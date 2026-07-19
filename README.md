@@ -1,27 +1,66 @@
-## Hello World I'm DAFFA👋
+<h1 align="center">Hi 👋, I'm Daffa Naufal</h1>
 
-<!--
-**falrest/falrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • IoT Enthusiast • UI/UX Designer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern web applications, backend systems, and IoT solutions.
+</p>
 
-- I’m currently working on ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
-- I’m looking for help with ...
-- Ask me about ...
-- ow to reach me: ...
-- Pronouns: ...
-- Fun fact: ...
--->
--  I’m currently working on home
--  I’m currently learning laravel & Python
-  
-##### Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,laravel,figma,blender)
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
+</p>
 
-##### Social
-![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,gmail,twitter)
+## 👨‍💻 About Me
 
+- 🎓 Information systems students
+- 💻 Full Stack Developer
+- 🤖 IoT Enthusiast
+- 🎨 UI/UX Designer
+- 🌱 Currently learning Laravel, React.js & Python
+- 🚀 Building scalable web applications
+- 📍 Indonesia
 
+## 🚀 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,mysql,python,figma,git,github,vscode"/>
+
+</p>
+
+## 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/daffanaufalali" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45">
+</a>
+
+<a href="https://github.com/falrest" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45">
+</a>
+
+<a href="https://instagram.com/dfaanhgl" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45">
+</a>
+
+<a href="mailto:daffanaufalali2008@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45">
+</a>
+
+</p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=falrest&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=falrest&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=falrest&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=falrest&color=blue)
+
+![](https://github-profile-trophy.vercel.app/?username=falrest&theme=algolia)
 
